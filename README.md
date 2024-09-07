@@ -13,7 +13,33 @@ H45H Verifinder is a versatile tool for file integrity verification. It calculat
 - Basic Output Mode: Provides a plain text output if the rich module is not installed.
 - Cross-Platform Compatibility: Available as executables for Windows, Linux, and macOS, and can be run from source on any platform with Python.
 
-## Installation
+
+## Usage / Output
+
+ ## DIRECT USE WITHOUT INSTALL
+ YOU CAN DIRECT USE SCRIPT FILE WITHOUT INSTALL ANY DEPENDENCIES [H45H-VeriFinder-v3.8.py](H45H-VeriFinder-v3.8.py) OR YOU CAN USE DIRECT EXECUTABLE FILE [H45H-VeriFinder-v3.8.exe](dist/)
+ 
+ ## Usage
+
+    1. Launch the tool.
+    2. Enter the file path of the file you wish to verify.
+    3. Optionally, enter a hash value to verify. If left empty, the tool will display computed hash values for the file.
+
+ ## Output
+
+    - Rich Mode:
+      Displays styled text and tables if rich is installed.
+
+    - Basic Mode: 
+      Shows plain text output if rich is not available.
+
+- Example
+```javascript
+Enter the file path: example_file.txt
+Enter the hash value to verify or (Leave empty):
+```
+
+## Installation (if need)
 
  - Pre-built Executables: 
    
@@ -45,26 +71,6 @@ H45H Verifinder is a versatile tool for file integrity verification. It calculat
      ```bash
      python your_script.py
      ```
-## Usage / Output
- ## Usage
-
-    1. Launch the tool.
-    2. Enter the file path of the file you wish to verify.
-    3. Optionally, enter a hash value to verify. If left empty, the tool will display computed hash values for the file.
-
- ## Output
-
-    - Rich Mode:
-      Displays styled text and tables if rich is installed.
-
-    - Basic Mode: 
-      Shows plain text output if rich is not available.
-
-- Example
-```javascript
-Enter the file path: example_file.txt
-Enter the hash value to verify or (Leave empty):
-```
 
 
 ## Contributing
@@ -77,5 +83,5 @@ Please fork the repository and submit a pull request. For major changes, open an
 This project is licensed under the MIT License - see the [License](LICENSE) file for details.
 ## Contact to Developer
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@dhsagaryt](https://www.instagram.com/dhsagaryt/)
 

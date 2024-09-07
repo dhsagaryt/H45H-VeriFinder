@@ -74,7 +74,7 @@ Contributions are welcome!
 Please fork the repository and submit a pull request. For major changes, open an issue to discuss the changes before submitting a pull request.
 ## License
 
-This project is licensed under the MIT License - see the [License](https://choosealicense.com/licenses/mit/) file for details.
+This project is licensed under the MIT License - see the [License](LICENSE) file for details.
 ## Contact to Developer
 
 - [@octokatherine](https://www.github.com/octokatherine)

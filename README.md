@@ -17,7 +17,7 @@ H45H Verifinder is a versatile tool for file integrity verification. It calculat
 ## Usage / Output
 
  ## DIRECT USE WITHOUT INSTALL
- YOU CAN DIRECT USE SCRIPT FILE WITHOUT INSTALL ANY DEPENDENCIES [H45H-VeriFinder-v3.8.py](H45H-VeriFinder-v3.8.py) OR YOU CAN USE DIRECT EXECUTABLE FILE [H45H-VeriFinder-v3.8.exe](dist/)
+ YOU CAN DIRECT USE SCRIPT FILE WITHOUT INSTALL ANY DEPENDENCIES [H45H-VeriFinder-v3.8.py](H45H-VeriFinder-v3.8.py) OR YOU CAN USE DIRECT EXECUTABLE FILE [H45H-VeriFinder-v3.8.exe](dist/) 👈 CLICK
  
  ## Usage
 
